@@ -125,8 +125,6 @@ Includes:
 
 ---
 
----
-
 # 📦 GitHub Upload Steps (Clean & Correct)
 
 Run inside your project directory:
@@ -139,6 +137,7 @@ git branch -M main
 git remote add origin https://github.com/GSagar10/nginx-https-secure-setup_Cent_OS.git
 git push -u origin main
 ```
+---
 
 
 
