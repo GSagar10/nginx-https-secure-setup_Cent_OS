@@ -140,33 +140,7 @@ git remote add origin https://github.com/GSagar10/nginx-https-secure-setup_Cent_
 git push -u origin main
 ```
 
-✔ Project uploaded
-✔ Version control enabled
-✔ Ready to share on LinkedIn
 
----
 
-## 📝 Pro Tip for LinkedIn
 
-Attach:
 
-* 1 screenshot of **HTTPS page**
-* 1 screenshot of **/docs auth popup**
-* 1 terminal screenshot showing `ss -tulnp | grep 443`
-
-This makes your post **high-credibility**.
-
----
-
-## 🏆 Final Note
-
-This is a **strong Linux Admin portfolio project** and clearly shows **5+ years experience mindset**.
-
-If you want, I can:
-
-* Shorten this post (recruiter-friendly)
-* Rewrite it in Marathi
-* Convert project into Ansible
-* Create interview Q&A from this setup
-
-Just say **next** 🚀
